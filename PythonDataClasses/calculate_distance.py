@@ -1,5 +1,5 @@
 from dataclasses import dataclass
-from math import asin, cos, radians,sin,sqrt
+from math import asin, cos, radians, sin, sqrt
 
 
 @dataclass
