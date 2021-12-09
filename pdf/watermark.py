@@ -20,7 +20,7 @@ def watermark_create(in_pdf, out_pdf, watermark):
 
 if __name__ == '__main__':
     watermark_create(
-        in_pdf='Jak porządnie opisać znaleziony błąd.pdf',
-        out_pdf='file_with_watermark.pdf',
-        watermark='watermark.pdf'
+        in_pdf='files/Jak porządnie opisać znaleziony błąd.pdf',
+        out_pdf='files/file_with_watermark.pdf',
+        watermark='files/watermark.pdf'
     )
