@@ -127,6 +127,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# PDF files
 *.pdf
 .pdf
 Jak porządnie opisać znaleziony błąd.pdf
