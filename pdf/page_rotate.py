@@ -14,10 +14,10 @@ def page_rotate(path):
     # add page in normal orientation
     pdf_writer.addPage(pdf_reader.getPage(2))
 
-    with open('rotate_page.pdf', 'wb') as file:
+    with open('files/rotate_page.pdf', 'wb') as file:
         pdf_writer.write(file)
 
 
 if __name__ == '__main__':
-    file = 'Jak porządnie opisać znaleziony błąd.pdf'
+    file = 'files/Jak porządnie opisać znaleziony błąd.pdf'
     page_rotate(file)

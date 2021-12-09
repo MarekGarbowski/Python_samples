@@ -15,5 +15,5 @@ def split(path, split_name):
 
 
 if __name__ == '__main__':
-    path = 'Jak porządnie opisać znaleziony błąd.pdf'
+    path = 'files/Jak porządnie opisać znaleziony błąd.pdf'
     split(path, 'testy')

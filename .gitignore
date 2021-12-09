@@ -131,6 +131,4 @@ dmypy.json
 # PDF files
 *.pdf
 .pdf
-Jak porządnie opisać znaleziony błąd.pdf
-merged.pdf
-rotate_page.pdf
+/files

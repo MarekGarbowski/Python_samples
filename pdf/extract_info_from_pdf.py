@@ -22,6 +22,6 @@ def ext_info(path_to_pdf):
 
 
 if __name__ == '__main__':
-    path = 'Jak porządnie opisać znaleziony błąd.pdf'
+    path = 'files/Jak porządnie opisać znaleziony błąd.pdf'
     ext_info(path)
 
